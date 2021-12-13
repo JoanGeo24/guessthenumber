@@ -1,4 +1,4 @@
-# telikiergasiamathseis
+# guessthenumber
 
 Γενική ιδέα
 
